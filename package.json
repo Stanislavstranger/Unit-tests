@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Your task is to implement 'custom' version of the lodash library following next requirements:\r 1. Usage of `Array.prototype.*` or `Object.prototype.*` methods is **strictly forbidden**. (!!! Do not mix up *methods* and *properties* )\r 2. You can create your own additional service functions (if needed).\r 3. You should use ES6+ features (any feature which supported by latest stable Chrome).\r 4. Lodash chain is out of scope",
   "main": "index.js",
-  "directories": {
-  },
+  "directories": {},
   "scripts": {
     "test": "jest"
   },
@@ -12,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.5.0",
-    "lodash": "^4.17.21"
+    "jest": "^29.5.0"
   }
 }
